@@ -1,0 +1,16 @@
+#foodlist{
+    width:100%;
+    display: contents;
+    grid-template-columns: auto auto auto;
+    gap:25px;
+
+}
+
+#cartButton{
+    float:right;
+    color:black;
+    background-color: coral;
+    border-radius: 20px;
+    width:170px;
+    height: 80px;
+}

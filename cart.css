@@ -1,0 +1,9 @@
+#foodlist{
+    width:80%;
+    display:grid;
+    grid-template-columns:  auto auto auto;
+    gap:20px;
+}
+#h1{
+    float:right;
+}
